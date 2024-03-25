@@ -1,0 +1,6 @@
+game:
+  base_path: resource/base.png
+screen:
+  caption: TicTacToe
+  tam_x: 1000
+  tam_y: 650
